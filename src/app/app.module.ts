@@ -4,6 +4,7 @@ import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
+// import { HeroComponent } from './hero.heroComponent'
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule ],
